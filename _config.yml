@@ -1,7 +1,7 @@
 # Site settings
 title: 源
 SEOTitle: childlong Blog
-header-img: img/my_live_mountian.jpg.jpg
+header-img: img/post-bg-rwd.jpg
 email: 278339925@qq.com
 description: "Only success is leading towards success."
 keyword: "BY, BY Blog, 子久 blog, childlong, 子久, iOS, Apple, iPhone"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/childlong/childlong.github.io" # you code repos
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/404-bg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-by.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
